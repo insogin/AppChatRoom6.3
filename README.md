@@ -20,9 +20,9 @@ his/her username here instead of in the chat room by clicking “manipulation”
 preventing the manually setting these by user. Because in real case, the server is  
 always available with invariable parameters and the clients don’t need to know.
 
-![](https://raw.githubusercontent.com/insogin/AppChatRoom6.3/HEAD/screenshot1/login.jpg)
-![](https://raw.githubusercontent.com/insogin/AppChatRoom6.3/HEAD/screenshot1/register.jpg)
-![](https://raw.githubusercontent.com/insogin/AppChatRoom6.3/HEAD/screenshot1/chat.jpg)
+![](https://raw.githubusercontent.com/insogin/AppChatRoom6.3/master/screenshot1/login.jpg)
+![](https://raw.githubusercontent.com/insogin/AppChatRoom6.3/master/screenshot1/register.jpg)
+![](https://raw.githubusercontent.com/insogin/AppChatRoom6.3/master/screenshot1/chat.jpg)
 
 
 ## Outline of the code
