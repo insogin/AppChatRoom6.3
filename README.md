@@ -14,7 +14,7 @@ between the client and the server, each message contains a flag to indicate its
 message type (register, login, exiting or regular message).  
 
 In this version, the following modifications are made as improvements: 1. More   
-friendly login menu as the first activity of opening the app, user now can choose  
+friendly login menu as the first activity of opening the app (Fig 1), user now can choose  
 his/her username here instead of in the chat room by clicking “manipulation”.  
 2. Hided the server setting, including the server ip and the port number, thus  
 preventing the manually setting these by user. Because in real case, the server is  
